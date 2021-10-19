@@ -5,8 +5,11 @@ Created by the students of Southern Virginia University
 This includes Travis, Eddie, Aaron, James, Kenny, Will, Matthew, and Tenny.
 
 
+We are the knights of programming
+
 
 
 Hi, What's up!
 
 Hello
+
