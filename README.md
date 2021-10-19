@@ -6,6 +6,8 @@ Created by the students of Southern Virginia University
 
 This includes Travis, Eddie, Aaron, James, Kenny, Will, Matthew, and Tenny.
 
+Hi, I'm Kenny
+
 Hello, I am Aaron
 
 
